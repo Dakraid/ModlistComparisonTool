@@ -1,0 +1,1 @@
+start "C:\Games\Tools\Wabbajack\installed_mod_lists\Keizaal\profiles\My Game\" lootifier.exe -p

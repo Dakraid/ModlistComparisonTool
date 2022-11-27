@@ -1,0 +1,600 @@
+14:45:31.343: Skyrim Special Edition Mod Organizer, according to the INI file, appears to be located in C:\The Phoenix Flavour - Dragon's Edition\
+14:45:31.343: MO Path: C:\The Phoenix Flavour - Dragon's Edition\
+14:45:31.344: Mod Organizer base files for Skyrim Special Edition found at C:\The Phoenix Flavour - Dragon's Edition\
+14:45:31.344: Mod Organizer profiles for Skyrim Special Edition are located at C:\The Phoenix Flavour - Dragon's Edition\Profiles
+14:45:31.344: MO Profiles folder: C:\The Phoenix Flavour - Dragon's Edition\Profiles
+14:45:31.351: User closed Mod Organizer before continuing. Draugr Apocalypse averted.
+14:45:31.351: Backing up INIs...
+14:45:31.355: Finished backing up any INI files.
+14:45:31.355: Applying mod-suggested INI tweaks.
+14:45:31.356: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:45:31.356: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:45:31.356: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:45:31.356: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:45:31.356: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:45:31.357: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:45:31.357: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:45:31.357: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:45:31.357: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:45:31.358: Finished applying mod-suggested INI tweaks.
+14:45:31.471: INI files shall not be set to read-only.
+14:45:31.497: Framerate is set to 60.
+14:45:31.513: Screenshots will be saved in the "C:\Steam\steamapps\common\Skyrim Special Edition\" directory with a base filename of "ScreenShot"
+14:45:31.514: The screenshot index number has been set to 0.
+14:45:31.514: The maximum number of autosaves has been set to 3
+14:45:31.529: 1st Person Arrow Tilt-up Angle set to 0.7
+14:45:31.529: 3rd Person Arrow Tilt-up Angle set to 2.5
+14:45:31.530: 1st Person Bolt Tilt-up Angle set to 0.7
+14:45:31.530: Look sensitivity has been set to 0.0450.
+14:45:31.531: Cursor velocity has been set to 1.00.
+14:45:31.531: Mouse X scale set to 0.0200.
+14:45:31.531: Mouse Y scale set to 0.8500.
+14:45:31.532: Mouse Wheel Zoom Speed has been set to 10.00.
+14:45:31.532: The percentage of the screen that the console can fill has been set to 40%.
+14:45:31.544: The console text size has been set to 20.
+14:45:31.609: The resolution divider for screen space reflections has been set to 2.
+14:45:31.610: The resolution divider for screen space reflections has been set to 2.
+14:45:31.623: All fade distance settings will be multiplied by 1.00 in-game.
+14:45:31.623: The distance that objects can be seen has been set to 6.0.
+14:45:31.624: The distance that actors can be seen has been set to 7.0.
+14:45:31.624: The distance that items can be seen has been set to 4.0.
+14:45:31.625: The distance that grass can be seen has been set to 10000.
+14:45:31.626: The distance that light can be seen has been set to 12800.
+14:45:31.627: The grid that will be actively rendered and processed around the PC has been set to 5 by 5.
+14:45:31.646: Distant Object Detail Level 4 has been set to 32768.
+14:45:31.663: Distant Object Detail Level 16 has been set to 200000.
+14:45:31.672: Landscape LOD multiplier has been set to 1.000.
+14:45:31.672: Distant Object Detail Level 8 has been set to 32768.
+14:45:31.702: Gamma has been set to 1.0000.
+14:45:31.703: The global brightness boost modifier has been set to 0.0000.
+14:45:31.703: The global contrast boost modifier has been set to -0.1800.
+14:45:31.704: The global saturation boost modifier has been set to 0.0000.
+14:45:31.704: Grass density has been set to 25 (higher values produce less grass).
+14:45:31.704: Grass diversity has been set to 15.
+14:45:31.732: Snow sparkle density set to 0.85
+14:45:31.733: Snow sparkle size set to 6.00
+14:45:31.733: Snow rim lighting intensity set to 0.30
+14:45:31.734: Power of glossiness/rim lighting on objects set to 3.00
+14:45:31.734: Power of glossiness/rim lighting on landscape set to 2.00
+14:45:31.940: Contents of BethINI.ini:
+[General]
+sGameName=Skyrim Special Edition
+sRestartedFromSetupTab=0
+bCreationKit=0
+bModifyCustomINIs=0
+[Directories]
+sGamePath=C:\Steam\steamapps\common\Skyrim Special Edition\
+sSkyrim Special EditionGameSettingsPath=C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\
+sSkyrim Special EditionModOrganizerPath=C:\The Phoenix Flavour - Dragon's Edition\
+
+14:45:31.945: BethINI startup completed.
+14:45:32.293: No Error.
+14:45:32.295: This version is up to date!
+14:46:19.412: Refreshing GUI...
+14:46:19.436: The distance that objects can be seen has been set to 6.0.
+14:46:19.438: The distance that actors can be seen has been set to 7.0.
+14:46:19.440: The distance that items can be seen has been set to 4.0.
+14:46:19.443: The distance that grass can be seen has been set to 10000.
+14:46:19.445: The grid that will be actively rendered and processed around the PC has been set to 5 by 5.
+14:46:19.447: Grass density has been set to 25 (higher values produce less grass).
+14:46:19.449: Grass diversity has been set to 15.
+14:46:19.451: Look sensitivity has been set to 0.0450.
+14:46:19.453: Screenshots will be saved in the "C:\Steam\steamapps\common\Skyrim Special Edition\" directory with a base filename of "ScreenShot"
+14:46:19.455: The screenshot index number has been set to 0.
+14:46:19.458: Framerate is set to 60.
+14:46:19.485: The global brightness boost modifier has been set to 0.0000.
+14:46:19.487: The global contrast boost modifier has been set to -0.1800.
+14:46:19.489: The global saturation boost modifier has been set to 0.0000.
+14:46:19.491: Snow rim lighting intensity set to 0.30
+14:46:19.493: Power of glossiness/rim lighting on objects set to 3.00
+14:46:19.496: Power of glossiness/rim lighting on landscape set to 2.00
+14:46:19.498: Snow sparkle density set to 0.85
+14:46:19.500: Snow sparkle size set to 6.00
+14:46:19.502: The resolution divider for screen space reflections has been set to 2.
+14:46:19.504: 1st Person Arrow Tilt-up Angle set to 0.7
+14:46:19.506: 3rd Person Arrow Tilt-up Angle set to 2.5
+14:46:19.509: 1st Person Bolt Tilt-up Angle set to 0.7
+14:46:19.511: Cursor velocity has been set to 1.00.
+14:46:19.531: The maximum number of autosaves has been set to 3
+14:46:19.546: Mouse X scale set to 0.0200.
+14:46:19.548: Mouse Y scale set to 0.8500.
+14:46:19.550: Mouse Wheel Zoom Speed has been set to 10.00.
+14:46:19.552: The console text size has been set to 20.
+14:46:19.555: The percentage of the screen that the console can fill has been set to 40%.
+14:46:19.557: All fade distance settings will be multiplied by 1.00 in-game.
+14:46:19.589: Distant Object Detail Level 8 has been set to 32768.
+14:46:19.600: Distant Object Detail Level 16 has been set to 200000.
+14:46:19.611: Gamma has been set to 1.0000.
+14:46:19.613: The distance that light can be seen has been set to 12800.
+14:46:19.615: Landscape LOD multiplier has been set to 1.000.
+14:46:19.618: Distant Object Detail Level 4 has been set to 32768.
+14:46:20.566: GUI was refreshed.
+14:46:21.149: Applying mod-suggested INI tweaks.
+14:46:21.152: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:46:21.154: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:46:21.156: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:46:21.159: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:46:21.161: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:46:21.163: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:46:21.166: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:46:21.168: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:46:21.171: plugins.txt is located here: C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\plugins.txt
+14:46:21.173: Finished applying mod-suggested INI tweaks.
+14:46:21.176: Refreshing GUI...
+14:46:21.204: The distance that objects can be seen has been set to 5.0.
+14:46:21.207: The distance that actors can be seen has been set to 6.0.
+14:46:21.210: The distance that items can be seen has been set to 3.0.
+14:46:21.213: The distance that grass can be seen has been set to 4556.
+14:46:21.216: The grid that will be actively rendered and processed around the PC has been set to 5 by 5.
+14:46:21.217: Grass density has been set to 40 (higher values produce less grass).
+14:46:21.220: Grass diversity has been set to 2.
+14:46:21.223: Look sensitivity has been set to 0.0450.
+14:46:21.226: Screenshots will be saved in the "C:\Steam\steamapps\common\Skyrim Special Edition\" directory with a base filename of "ScreenShot"
+14:46:21.229: The screenshot index number has been set to 0.
+14:46:21.232: Framerate is set to 60.
+14:46:21.248: The global brightness boost modifier has been set to 0.0000.
+14:46:21.251: The global contrast boost modifier has been set to -0.1800.
+14:46:21.254: The global saturation boost modifier has been set to 0.0000.
+14:46:21.257: Snow rim lighting intensity set to 0.30
+14:46:21.260: Power of glossiness/rim lighting on objects set to 3.00
+14:46:21.263: Power of glossiness/rim lighting on landscape set to 2.00
+14:46:21.266: Snow sparkle density set to 0.85
+14:46:21.269: Snow sparkle size set to 6.00
+14:46:21.272: The resolution divider for screen space reflections has been set to 2.
+14:46:21.275: 1st Person Arrow Tilt-up Angle set to 0.7
+14:46:21.278: 3rd Person Arrow Tilt-up Angle set to 2.5
+14:46:21.281: 1st Person Bolt Tilt-up Angle set to 0.7
+14:46:21.284: Cursor velocity has been set to 1.00.
+14:46:21.315: The maximum number of autosaves has been set to 3
+14:46:21.328: Mouse X scale set to 0.0200.
+14:46:21.331: Mouse Y scale set to 0.8500.
+14:46:21.334: Mouse Wheel Zoom Speed has been set to 10.00.
+14:46:21.337: The console text size has been set to 20.
+14:46:21.340: The percentage of the screen that the console can fill has been set to 40%.
+14:46:21.358: All fade distance settings will be multiplied by 1.00 in-game.
+14:46:21.370: Distant Object Detail Level 4 has been set to 32768.
+14:46:21.381: Distant Object Detail Level 8 has been set to 81920.
+14:46:21.401: Landscape LOD multiplier has been set to 1.000.
+14:46:21.404: Gamma has been set to 1.0000.
+14:46:21.408: The distance that light can be seen has been set to 12800.
+14:46:21.412: Distant Object Detail Level 16 has been set to 196608.
+14:46:22.405: GUI was refreshed.
+14:46:23.405: Video settings have been set for BethINI medium quality.
+14:46:23.409: Recommended tweaks have been automatically applied.
+14:46:25.567: VSync is now disabled.
+14:46:49.083: Object reflections in the water are now enabled.
+14:46:54.084: Godrays has been set to None.
+14:47:00.766: The particle count has been set to 7500
+14:47:05.052: Lens flare is now disabled.
+14:47:06.174: Anamorphic lens flares are now disabled.
+14:47:12.070: The resolution of shadows has been set to 2048.
+14:47:24.086: The directional shadow bias scale has been set to 0.7.
+14:47:32.403: The distance that shadows can be cast while outdoors has been set to 8000.
+14:47:39.220: Ambient Occlusion is now disabled.
+14:48:07.357: The distance that grass can be seen has been set to 1.
+14:48:07.661: The distance that grass can be seen has been set to 10.
+14:48:08.077: The distance that grass can be seen has been set to 100.
+14:48:08.397: The distance that grass can be seen has been set to 1000.
+14:48:08.773: The distance that grass can be seen has been set to 10000.
+14:48:27.022: Distant Object Detail Level 8 has been set to 3.
+14:48:27.557: Distant Object Detail Level 8 has been set to 32.
+14:48:28.325: Distant Object Detail Level 8 has been set to 327.
+14:48:28.869: Distant Object Detail Level 8 has been set to 3276.
+14:48:29.110: Distant Object Detail Level 8 has been set to 32768.
+14:48:37.413: Distant Object Detail Level 16 has been set to 2.
+14:48:37.724: Distant Object Detail Level 16 has been set to 20.
+14:48:38.157: Distant Object Detail Level 16 has been set to 200.
+14:48:38.724: Distant Object Detail Level 16 has been set to 2000.
+14:48:39.052: Distant Object Detail Level 16 has been set to 20000.
+14:48:39.365: Distant Object Detail Level 16 has been set to 200000.
+14:48:58.396: Grass diversity has been set to 1.
+14:48:58.531: Grass diversity has been set to 15.
+14:49:05.512: Grass density has been set to 40 (higher values produce less grass).
+14:49:23.290: Grass density has been set to 25 (higher values produce less grass).
+14:49:50.994: Grass density has been set to 24 (higher values produce less grass).
+14:49:51.873: Grass density has been set to 23 (higher values produce less grass).
+14:49:52.097: Grass density has been set to 22 (higher values produce less grass).
+14:49:52.449: Grass density has been set to 21 (higher values produce less grass).
+14:49:52.665: Grass density has been set to 20 (higher values produce less grass).
+14:50:18.582: Display was the section chosen.
+14:50:18.702: uIBLFLensesCount was the setting chosen.
+14:50:40.045: bEnableLandFade was the setting chosen.
+14:50:44.009: bEnableLandFade:Display found in base INI file.
+14:50:44.013: Refreshing GUI...
+14:50:44.046: The distance that objects can be seen has been set to 5.0.
+14:50:44.050: The distance that actors can be seen has been set to 6.0.
+14:50:44.053: The distance that items can be seen has been set to 3.0.
+14:50:44.058: The distance that grass can be seen has been set to 10000.
+14:50:44.062: The grid that will be actively rendered and processed around the PC has been set to 5 by 5.
+14:50:44.066: Grass density has been set to 20 (higher values produce less grass).
+14:50:44.070: Grass diversity has been set to 15.
+14:50:44.074: Look sensitivity has been set to 0.0450.
+14:50:44.078: Screenshots will be saved in the "C:\Steam\steamapps\common\Skyrim Special Edition\" directory with a base filename of "ScreenShot"
+14:50:44.082: The screenshot index number has been set to 0.
+14:50:44.086: Framerate is set to 60.
+14:50:44.112: The global brightness boost modifier has been set to 0.0000.
+14:50:44.116: The global contrast boost modifier has been set to -0.1800.
+14:50:44.120: The global saturation boost modifier has been set to 0.0000.
+14:50:44.124: Snow rim lighting intensity set to 0.30
+14:50:44.129: Power of glossiness/rim lighting on objects set to 3.00
+14:50:44.133: Power of glossiness/rim lighting on landscape set to 2.00
+14:50:44.137: Snow sparkle density set to 0.85
+14:50:44.141: Snow sparkle size set to 6.00
+14:50:44.145: The resolution divider for screen space reflections has been set to 2.
+14:50:44.149: 1st Person Arrow Tilt-up Angle set to 0.7
+14:50:44.154: 1st Person Bolt Tilt-up Angle set to 0.7
+14:50:44.158: Cursor velocity has been set to 1.00.
+14:50:44.164: 3rd Person Arrow Tilt-up Angle set to 2.5
+14:50:44.186: The maximum number of autosaves has been set to 3
+14:50:44.202: Mouse X scale set to 0.0200.
+14:50:44.206: Mouse Y scale set to 0.8500.
+14:50:44.211: Mouse Wheel Zoom Speed has been set to 10.00.
+14:50:44.215: The console text size has been set to 20.
+14:50:44.219: The percentage of the screen that the console can fill has been set to 40%.
+14:50:44.223: All fade distance settings will be multiplied by 1.00 in-game.
+14:50:44.245: Distant Object Detail Level 8 has been set to 32768.
+14:50:44.259: Distant Object Detail Level 16 has been set to 200000.
+14:50:44.272: Landscape LOD multiplier has been set to 1.000.
+14:50:44.277: Distant Object Detail Level 4 has been set to 32768.
+14:50:44.291: Gamma has been set to 1.0000.
+14:50:44.296: The distance that light can be seen has been set to 12800.
+14:50:45.282: GUI was refreshed.
+14:50:45.286: bEnableLandFade:Display set to 0 in the Skyrim.ini file.
+14:51:11.226: Deleting invalid settings...
+14:51:11.232: Invalid settings deleted.
+14:51:11.236: Controversial settings shall be sought out and questioned if found.
+14:51:11.241: Finished handling controversial settings.
+14:51:11.245: Correcting known harmful settings...
+14:51:11.249: Known harmful settings corrected.
+14:51:11.253: Running the Summary() function, which helps remove nonsense from the INI files.
+14:51:11.258: Summary Input INI:
+[Actor]
+bUseNavMeshForMovement=0
+
+[Archive]
+bLoadArchiveInMemory=1
+sArchiveToLoadInMemoryList=Skyrim - Animations.bsa
+sResourceArchiveList=Skyrim - Misc.bsa, Skyrim - Shaders.bsa, Skyrim - Interface.bsa, Skyrim - Animations.bsa, Skyrim - Meshes0.bsa, Skyrim - Meshes1.bsa, Skyrim - Sounds.bsa
+sResourceArchiveList2=Skyrim - Voices_en0.bsa, Skyrim - Textures0.bsa, Skyrim - Textures1.bsa, Skyrim - Textures2.bsa, Skyrim - Textures3.bsa, Skyrim - Textures4.bsa, Skyrim - Textures5.bsa, Skyrim - Textures6.bsa, Skyrim - Textures7.bsa, Skyrim - Textures8.bsa, Skyrim - Patch.bsa
+
+[Audio]
+fMenuModeFadeInTime=1.0
+fMenuModeFadeOutTime=3.0
+fMusicDuckingSeconds=6.0
+fMusicUnDuckingSeconds=8.0
+uMaxSizeForCachedSound=4096
+
+[Camera]
+fMouseWheelZoomSpeed=10.00
+
+[Combat]
+f1PArrowTiltUpAngle=0.7
+f1PBoltTiltUpAngle=0.7
+f3PArrowTiltUpAngle=2.5
+fMagnetismLookingMult=0.0
+fMagnetismStrafeHeadingMult=0.0
+
+[Controls]
+fDialogueHardStopAngle1P=180
+fDialogueHardStopAngle3P=180
+fDialogueSoftStopAngle1P=150
+fDialogueSoftStopAngle3P=150
+fMouseHeadingSensitivityMax=0.0950
+fMouseHeadingXScale=0.0200
+fMouseHeadingYScale=0.8500
+
+[Decals]
+uMaxSkinDecalPerActor=20
+
+[Display]
+bEnableLandFade=0
+bEnableSnowMask=0
+bEnableSnowRimLighting=0
+bLockFrameRate=0
+bVolumetricLightingDisableInterior=1
+fDDOFFocusCenterweightExt=2
+fDecalLifetime=240
+fDOFMaxDepthParticipation=10000
+fDynamicDOFFarBlur=0.4
+fFirstSliceDistance=1991
+fGlobalBrightnessBoost=0.0000
+fGlobalContrastBoost=-0.1800
+fGlobalSaturationBoost=0.0000
+fLightLODRange=6656
+fLightLODStartFade=3500.0
+fShadowDirectionalBiasScale=0.7
+fSnowGeometrySpecPower=3.00
+fSnowNormalSpecPower=2.00
+fSnowRimLightIntensity=0.30
+fSparklesDensity=0.85
+fSparklesSize=6.00
+fTreesMidLODSwitchDist=9999999.0000
+fWaterSSRIntensity=0.5
+iLandscapeMultiNormalTilingFactor=1
+sScreenShotBaseName=C:\Steam\steamapps\common\Skyrim Special Edition\ScreenShot
+
+[General]
+bBackgroundLoadVMData=1
+bModManagerMenuEnabled=0
+fFlickeringLightDistance=8192
+sIntroSequence=
+sLanguage=ENGLISH
+sTestFile1=Dawnguard.esm
+sTestFile2=HearthFires.esm
+sTestFile3=Dragonborn.esm
+uExterior Cell Buffer=36
+uGridsToLoad=5
+
+[GeneralWarnings]
+SGeneralMasterMismatchWarning=One or more plugins could not find the correct versions of the master files they depend on. Errors may occur during load or game play. Check the "Warnings.txt" file for more information.
+
+[Grass]
+bAllowCreateGrass=1
+bAllowLoadGrass=0
+bDrawShaderGrass=1
+fGrassFadeRange=3856
+fGrassMaxStartFadeDistance=7000.0000
+fGrassMinStartFadeDistance=0.0000
+fGrassWindMagnitudeMax=65
+fGrassWindMagnitudeMin=5
+iGrassCellRadius=2
+iMaxGrassTypesPerTexure=15
+iMinGrassSize=20
+
+[HAVOK]
+fMaxTime=0.01666667
+
+[Imagespace]
+iRadialBlurLevel=2
+
+[Interface]
+bShowTutorials=0
+uMaxCustomItemNameLength=64
+
+[Launcher]
+bEnableFileSelection=1
+
+[LightingShader]
+fDecalLODFadeEnd=0.3
+fDecalLODFadeStart=0.2
+fEnvmapLODFadeEnd=0.4
+fEnvmapLODFadeStart=0.3
+
+[LOD]
+fDistanceMultiplier=1.00
+
+[MapMenu]
+fMapWorldMaxPitch=90
+fMapWorldMinPitch=0
+fMapWorldYawRange=400
+
+[Menu]
+iConsoleSizeScreenPercent=40
+iConsoleTextSize=20
+
+[Papyrus]
+bEnableLogging=0
+bEnableProfiling=0
+bEnableTrace=0
+bLoadDebugInformation=0
+fPostLoadUpdateTimeMS=2000
+
+[SaveGame]
+iAutoSaveCount=3
+
+[Trees]
+bEnableTreeAnimations=1
+bEnableTrees=1
+fUpdateBudget=1.5
+
+[Water]
+bReflectLODLand=1
+bReflectLODObjects=1
+bReflectLODTrees=1
+bReflectSky=1
+
+14:51:11.265: Default Preset Location for Invalid Settings Auto-detection: C:\Modding Tools - Skyrim\BethINI\Presets\Skyrim Special Edition\
+14:51:11.314: Summary of Changes was refreshed for Skyrim.
+14:51:11.320: Summary Input INI:
+[AudioMenu]
+fAudioMasterVolume=1.0000
+fVal0=1.0000
+fVal1=0.8000
+fVal2=0.8000
+fVal3=0.5000
+fVal4=0.5000
+fVal5=1.0000
+fVal6=0.5000
+fVal7=0.3000
+uID0=94881
+uID1=1007612
+uID2=554685
+uID3=466532
+uID4=522251
+uID5=410705
+uID6=106685
+uID7=3523258990
+
+[Bethesda.net]
+uPersistentUuidData0=230773633
+uPersistentUuidData1=377637501
+uPersistentUuidData2=2445823961
+uPersistentUuidData3=1239365588
+
+[Clouds]
+fCloudLevel0Distance=16384.0000
+fCloudLevel1Distance=32768.0000
+fCloudLevel2Distance=262144.0000
+fCloudNearFadeDistance=9000.0000
+
+[Controls]
+bAlwaysRunByDefault=1
+bGamePadRumble=1
+bInvertYValues=0
+bUseKinect=0
+fGamepadHeadingSensitivity=0.6667
+fMouseHeadingSensitivity=0.0450
+
+[Decals]
+bDecals=1
+bSkinnedDecals=1
+uMaxDecals=100
+uMaxSkinDecals=35
+
+[Display]
+bBorderless=1
+bDrawLandShadows=1
+bEnableImprovedSnow=0
+bEnableProjecteUVDiffuseNormals=1
+bForceCreateTarget=0
+bFull Screen=1
+bFXAAEnabled=0
+bIBLFEnable=0
+bIndEnable=0
+bSAO_CS_Enable=0
+bSAOEnable=0
+bScreenSpaceReflectionEnabled=1
+bToggleSparkles=0
+bTreesReceiveShadows=1
+bUse64bitsHDRRenderTarget=0
+bUsePrecipitationOcclusion=1
+bUseTAA=1
+bVolumetricLightingEnable=0
+fDynamicDOFBlurMultiplier=0.8
+ffocusShadowMapDoubleEveryXUnit=450
+fGamma=1.0000
+fInteriorShadowDistance=3000
+fLeafAnimDampenDistEnd=4600
+fLeafAnimDampenDistStart=3600
+fLightLODStartFade=6144
+fMeshLODFadeBoundDefault=256
+fMeshLODFadePercentDefault=1.2
+fMeshLODLevel1FadeDist=4096
+fMeshLODLevel1FadeTreeDistance=4096
+fMeshLODLevel2FadeDist=8192
+fMeshLODLevel2FadeTreeDistance=8192
+fProjectedUVDiffuseNormalTilingScale=0.2
+fProjectedUVNormalDetailTilingScale=0.8
+fShadowDistance=8000
+fTreesMidLODSwitchDist=8192
+iMaxDecalsPerFrame=60
+iMaxSkinDecalsPerFrame=35
+iNumFocusShadow=2
+iNumSplits=2
+iReflectionResolutionDivider=2
+iSaveGameScreenShotHeight=192
+iSaveGameScreenShotHeighWSt=192
+iSaveGameScreenShotWidth=256
+iSaveGameScreenShotWidthWS=320
+iScreenShotIndex=0
+iShadowMapResolution=2048
+iShadowMaskQuarter=4
+iSize H=1440
+iSize W=2560
+iVolumetricLightingQuality=1
+iVSyncPresentInterval=0
+uBookRatio=2
+
+[GamePlay]
+bShowFloatingQuestMarkers=1
+bShowQuestMarkers=1
+iDifficulty=2
+
+[General]
+bEnableStoryManagerLogging=0
+bFreebiesSeen=1
+fLightingOutputColourClampPostEnv=1.0000
+fLightingOutputColourClampPostLit=1.0000
+fLightingOutputColourClampPostSpec=1.0000
+iStoryManagerLoggingEvent=-1
+uLargeRefLODGridSize=7
+
+[Grass]
+fGrassMaxStartFadeDistance=6144
+fGrassMinStartFadeDistance=0
+fGrassStartFadeDistance=6144
+
+[Imagespace]
+bDoDepthOfField=1
+bLensFlare=0
+
+[Interface]
+bDialogueSubtitles=1
+bGeneralSubtitles=1
+bShowCompass=1
+fMouseCursorSpeed=1.00
+
+[Launcher]
+sD3DDevice="AMD Radeon RX 6800 XT"
+
+[LOD]
+fLODFadeOutMultActors=6.0
+fLODFadeOutMultItems=3.0
+fLODFadeOutMultObjects=5.0
+fLODFadeOutMultSkyCell=1
+
+[MAIN]
+bCrosshairEnabled=1
+bGamepadEnable=1
+bSaveOnPause=0
+bSaveOnRest=1
+bSaveOnTravel=1
+bSaveOnWait=1
+fHUDOpacity=1.0000
+fSkyCellRefFadeDistance=262144
+
+[NavMesh]
+fCoverSideHighAlpha=0.8000
+fCoverSideLowAlpha=0.6500
+fEdgeDistFromVert=10.0000
+fEdgeFullAlpha=1.0000
+fEdgeHighAlpha=0.7500
+fEdgeLowAlpha=0.5000
+fEdgeThickness=10.0000
+fLedgeBoxHalfHeight=25.0000
+fObstacleAlpha=0.5000
+fPointSize=2.5000
+fTriangleFullAlpha=0.7000
+fTriangleHighAlpha=0.3500
+fTriangleLowAlpha=0.2000
+
+[Particles]
+iMaxDesired=7500
+
+[SaveGame]
+fAutosaveEveryXMins=15.0000
+
+[TerrainManager]
+bShowLODInEditor=1
+fBlockLevel0Distance=32768
+fBlockLevel1Distance=32768
+fBlockMaximumDistance=200000
+fSplitDistanceMult=1.000
+fTreeLoadDistance=32768
+
+[Trees]
+bRenderSkinnedTrees=1
+uiMaxSkinnedTreesToRender=75
+
+[Water]
+bUseWaterDepth=1
+bUseWaterDisplacements=1
+bUseWaterReflections=1
+bUseWaterRefractions=1
+
+14:51:11.327: Default Preset Location for Invalid Settings Auto-detection: C:\Modding Tools - Skyrim\BethINI\Presets\Skyrim Special Edition\
+14:51:11.452: Summary of Changes was refreshed for SkyrimPrefs.
+14:51:11.458: Summary of Changes for Base INI is:[Grass]
+iMinGrassSize was changed from 25 to 20
+14:51:11.464: Summary of Changes for Prefs INI is:[Display]
+fDynamicDOFBlurMultiplier was changed from 0.0000 to 0.8
+
+[LOD]
+fLODFadeOutMultActors was changed from 7.0000 to 6.0
+fLODFadeOutMultItems was changed from 4.0000 to 3.0
+fLODFadeOutMultObjects was changed from 6.0000 to 5.0
+14:51:11.470: Sorting INIs...
+14:51:11.476: Sorting C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\Skyrim.ini
+14:51:11.509: Sorting C:\The Phoenix Flavour - Dragon's Edition\Profiles\The Phoenix Flavour - Dragon's Edition\SkyrimPrefs.ini
+14:51:11.611: INIs sorted.
+14:51:11.617: Your INI files were successfully saved.
