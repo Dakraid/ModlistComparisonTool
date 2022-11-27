@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{EB81CE9A-7ADB-447F-9604-7762CB60C389}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModlistComparisonTool.Modules.ComparisonTool", "ModlistComparisonTool\Modules\ModlistComparisonTool.Modules.ModuleName\ModlistComparisonTool.Modules.ComparisonTool.csproj", "{BB291380-941F-4DBC-86DC-76C763919A88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{1987F25B-7FA3-4849-ABBC-02B4D9897A2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModlistComparisonTool.Services", "ModlistComparisonTool\Services\ModlistComparisonTool.Services\ModlistComparisonTool.Services.csproj", "{EE22089D-DD28-43D4-BF8D-6F41F77ADB05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModlistComparisonTool.Services.Interfaces", "ModlistComparisonTool\Services\ModlistComparisonTool.Services.Interfaces\ModlistComparisonTool.Services.Interfaces.csproj", "{A63E0798-E94D-4B05-B148-5A82B8069110}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModlistComparisonTool", "ModlistComparisonTool\ModlistComparisonTool\ModlistComparisonTool.csproj", "{32F7CE95-2F72-4AF2-86F2-E10578D3528B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModlistComparisonTool.Core", "ModlistComparisonTool\ModlistComparisonTool.Core\ModlistComparisonTool.Core.csproj", "{AB8D421D-53F0-4005-9BC8-5A9400F35B65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F596A1C-CA11-442A-ADAA-55C2B1247987}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB291380-941F-4DBC-86DC-76C763919A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB291380-941F-4DBC-86DC-76C763919A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB291380-941F-4DBC-86DC-76C763919A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB291380-941F-4DBC-86DC-76C763919A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE22089D-DD28-43D4-BF8D-6F41F77ADB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE22089D-DD28-43D4-BF8D-6F41F77ADB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE22089D-DD28-43D4-BF8D-6F41F77ADB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE22089D-DD28-43D4-BF8D-6F41F77ADB05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63E0798-E94D-4B05-B148-5A82B8069110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63E0798-E94D-4B05-B148-5A82B8069110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63E0798-E94D-4B05-B148-5A82B8069110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63E0798-E94D-4B05-B148-5A82B8069110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F7CE95-2F72-4AF2-86F2-E10578D3528B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F7CE95-2F72-4AF2-86F2-E10578D3528B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F7CE95-2F72-4AF2-86F2-E10578D3528B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F7CE95-2F72-4AF2-86F2-E10578D3528B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8D421D-53F0-4005-9BC8-5A9400F35B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8D421D-53F0-4005-9BC8-5A9400F35B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8D421D-53F0-4005-9BC8-5A9400F35B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8D421D-53F0-4005-9BC8-5A9400F35B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BB291380-941F-4DBC-86DC-76C763919A88} = {EB81CE9A-7ADB-447F-9604-7762CB60C389}
+		{EE22089D-DD28-43D4-BF8D-6F41F77ADB05} = {1987F25B-7FA3-4849-ABBC-02B4D9897A2B}
+		{A63E0798-E94D-4B05-B148-5A82B8069110} = {1987F25B-7FA3-4849-ABBC-02B4D9897A2B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {993C0260-1BC8-4C79-A77E-468B43A469DB}
+	EndGlobalSection
+EndGlobal

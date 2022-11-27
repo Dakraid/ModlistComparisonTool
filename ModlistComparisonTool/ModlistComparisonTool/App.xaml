@@ -1,0 +1,57 @@
+﻿<prism:PrismApplication x:Class="ModlistComparisonTool.App"
+                        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                        xmlns:prism="http://prismlibrary.com/"
+                        xmlns:ui="http://schemas.modernwpf.com/2019"
+                        xmlns:presets="clr-namespace:ModlistComparisonTool.Core.Presets;assembly=ModlistComparisonTool.Core"
+                        xmlns:common="clr-namespace:ModlistComparisonTool.Core.Common;assembly=ModlistComparisonTool.Core">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ui:ThemeResources>
+                    <ui:ThemeResources.ThemeDictionaries>
+                        <ResourceDictionary x:Key="Light" ui:ThemeDictionary.Key="Light">
+                            <ResourceDictionary.MergedDictionaries>
+                                <presets:ColorPresetResources TargetTheme="Light" />
+                                <presets:ShapePresetResources />
+                            </ResourceDictionary.MergedDictionaries>
+                            <SolidColorBrush x:Key="AppBackgroundBrush" Color="#FFF1F1F1" />
+                            <SolidColorBrush x:Key="AppContentBackgroundBrush"
+                                             Color="{StaticResource SystemAltHighColor}" />
+                        </ResourceDictionary>
+
+                        <ResourceDictionary x:Key="Dark" ui:ThemeDictionary.Key="Dark">
+                            <ResourceDictionary.MergedDictionaries>
+                                <presets:ColorPresetResources TargetTheme="Dark" />
+                                <presets:ShapePresetResources />
+                            </ResourceDictionary.MergedDictionaries>
+                            <SolidColorBrush x:Key="AppBackgroundBrush" Color="#FF232323" />
+                            <SolidColorBrush x:Key="AppContentBackgroundBrush" Color="#FF282828" />
+                        </ResourceDictionary>
+                    </ui:ThemeResources.ThemeDictionaries>
+                </ui:ThemeResources>
+
+                <ui:XamlControlsResources />
+
+                <!-- Font Overrides -->
+                <!--<sc:FontOverrides FontFamily="Comic Sans MS" />-->
+                <!--<ResourceDictionary>
+                    <FontFamily x:Key="DefaultFontFamily">Comic Sans MS</FontFamily>
+                    <StaticResource x:Key="{x:Static SystemFonts.MessageFontFamilyKey}" ResourceKey="DefaultFontFamily" />
+                    <StaticResource x:Key="ContentControlThemeFontFamily" ResourceKey="DefaultFontFamily" />
+                    <StaticResource x:Key="PivotHeaderItemFontFamily" ResourceKey="DefaultFontFamily" />
+                    <StaticResource x:Key="PivotTitleFontFamily" ResourceKey="DefaultFontFamily" />
+                </ResourceDictionary>-->
+
+            </ResourceDictionary.MergedDictionaries>
+
+            <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+            <common:EnumValuesConverter x:Key="EnumValuesConverter" />
+            <common:ColorToBrushConverter x:Key="ColorToBrushConverter" />
+            <common:BrushToColorConverter x:Key="BrushToColorConverter" />
+            <common:InverseAppThemeConverter x:Key="InverseAppThemeConverter" />
+            <common:BooleanToValueConverter x:Key="BooleanToValueConverter" />
+            <common:CornerRadiusToDoubleConverter x:Key="CornerRadiusToDoubleConverter" />
+        </ResourceDictionary>
+    </Application.Resources>
+</prism:PrismApplication>

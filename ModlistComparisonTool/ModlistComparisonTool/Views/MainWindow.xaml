@@ -1,0 +1,43 @@
+﻿<Window x:Class="ModlistComparisonTool.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        xmlns:core="clr-namespace:ModlistComparisonTool.Core;assembly=ModlistComparisonTool.Core"
+        xmlns:ui="http://schemas.modernwpf.com/2019"
+        ui:WindowHelper.UseModernWindowStyle="True"
+        Title="{Binding Title}" Height="800" Width="1000">
+    <Grid
+        x:Name="App"
+        Background="{DynamicResource AppBackgroundBrush}"
+        ui:ThemeManager.RequestedTheme="Dark">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" Height="48" Padding="0, 4" Background="{DynamicResource AppContentBackgroundBrush}">
+            <MenuItem Header="Menu" Margin="4,0">
+                <MenuItem.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="5" />
+                    </Style>
+                </MenuItem.Resources>
+                <MenuItem Command="ApplicationCommands.Copy" />
+                <MenuItem Command="ApplicationCommands.Cut" />
+                <MenuItem Command="ApplicationCommands.Paste" />
+            </MenuItem>
+            <MenuItem Header="Settings" Margin="4,0">
+                <MenuItem.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="5" />
+                    </Style>
+                </MenuItem.Resources>
+                <MenuItem Header="Use Dark Theme" IsCheckable="True" IsChecked="True" />
+                <Separator />
+                <MenuItem Header="Increase Font Size" />
+                <MenuItem Header="Decrease Font Size" />
+            </MenuItem>
+        </Menu>
+        <ContentControl Grid.Row="1" prism:RegionManager.RegionName="{x:Static core:RegionNames.ContentRegion}" />
+    </Grid>
+</Window>
